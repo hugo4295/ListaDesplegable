@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ListaDesplegable</string>
+    <string name="vtxtnum1">Ingrese el primer valor</string>
+    <string name="vtxtnum2">Ingrese el segundo valor</string>
+    <string name="vbtncalcula">Calcular</string>
+</resources>
